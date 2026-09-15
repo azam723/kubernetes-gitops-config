@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: 938379788528.dkr.ecr.ap-south-1.amazonaws.com/gitops-demo-api
-  tag: "1.0.0"
+  tag: "1411cf33d1527165a619fdab27d519edf182afcf"
   pullPolicy: IfNotPresent
 
 service:

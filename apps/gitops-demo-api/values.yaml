@@ -10,6 +10,9 @@ service:
   port: 80
   targetPort: 8080
 
+ingress:
+  enabled: true
+
 resources:
   requests:
     cpu: 100m
